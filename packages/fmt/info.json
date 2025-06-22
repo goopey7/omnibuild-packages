@@ -1,0 +1,13 @@
+{
+	"git": "https://github.com/fmtlib/fmt",
+	"versions": [
+		{
+			"version": "11.2.0",
+			"tag": "11.2.0"
+		}
+	],
+	"license": {
+		"type": "MIT",
+		"url": "https://github.com/fmtlib/fmt/blob/master/LICENSE"
+	}
+}
