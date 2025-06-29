@@ -4,7 +4,7 @@ if ob.is_unix() then
 	ob.add_package({
 		name = "spdlog",
 		type = "dylib",
-		binary = "./build/*.so",
+		binary = "./build/libspdlog.so.1.15",
 		include_dirs = { "./include" },
 	})
 end
