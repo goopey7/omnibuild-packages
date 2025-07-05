@@ -1,0 +1,13 @@
+{
+	"git": "https://github.com/raysan5/raylib",
+	"versions": [
+		{
+			"version": "5.5",
+			"tag": "5.5"
+		}
+	],
+	"license": {
+		"type": "zlib",
+		"url": "https://github.com/raysan5/raylib/blob/5.5/LICENSE"
+	}
+}
