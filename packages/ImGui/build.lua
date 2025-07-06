@@ -4,7 +4,7 @@ local module = {
 	type = "dylib",
 	dependencies = {},
 	include_dirs = { "." },
-	ignore_dirs = { "./examples", "./backends" },
+	ignore_dirs = { "./examples", "./backends", "./misc" },
 	path = ".packages/ImGui",
 }
 
