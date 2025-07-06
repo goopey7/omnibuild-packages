@@ -3,6 +3,7 @@ local module = {
 	type = "dylib",
 	dependencies = { "raylib", "ImGui" },
 	include_dirs = { "." },
+	ignore_dirs = { "./examples", "./extras" },
 	path = ".packages/rlImGui",
 }
 
