@@ -1,3 +1,4 @@
+ob.print("Hello from raylib imgui!")
 local module = {
 	name = "rlImGui",
 	type = "dylib",
