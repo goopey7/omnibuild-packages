@@ -1,0 +1,13 @@
+{
+	"git": "https://github.com/skypjack/entt",
+	"versions": [
+		{
+			"version": "v3.15.0",
+			"tag": "v3.15.0"
+		}
+	],
+	"license": {
+		"type": "MIT",
+		"url": "https://github.com/skypjack/entt/blob/master/LICENSE"
+	}
+}
