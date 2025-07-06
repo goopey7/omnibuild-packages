@@ -1,0 +1,13 @@
+{
+	"git": "https://github.com/raylib-extras/rlImGui",
+	"versions": [
+		{
+			"version": "main",
+			"tag": "main"
+		}
+	],
+	"license": {
+		"type": "zlib",
+		"url": "https://github.com/raylib-extras/rlImGui/blob/main/LICENSE"
+	}
+}
