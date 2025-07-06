@@ -1,0 +1,13 @@
+{
+	"git": "https://github.com/ocornut/imgui",
+	"versions": [
+		{
+			"version": "v1.92.0",
+			"tag": "v1.92.0"
+		}
+	],
+	"license": {
+		"type": "MIT",
+		"url": "https://github.com/ocornut/imgui/blob/v1.92.0/LICENSE.txt"
+	}
+}
